@@ -1,4 +1,4 @@
-# TEMPLATE
+# my-template
 
 ## INIT
 
@@ -14,4 +14,3 @@ uv run pytest
 uv run ruff check .
 uv run ruff fix .
 ```
-# my-template
