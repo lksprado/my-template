@@ -3,8 +3,7 @@
 ## INIT
 
 ```
-uv init
-uv sync
+uv sync --no-install-project
 ```
 
 ## OTHER
